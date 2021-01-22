@@ -35,7 +35,7 @@ var totalCostOfAllThings = totalCostOfWatch+totalCostOfPhone+totalCostOfLaptop;
 return totalCostOfAllThings;
 }
 
-var output2 = budgetCalculator(12,12,14);
+var output2 = budgetCalculator(10,10,10);
 console.log(output2);
 
 
@@ -80,5 +80,5 @@ for(i=0; i<friendsName.length; i++){
 }
 return largestFriendsName;
 }
-var output4 = megaFriend(["Shafi","Sami","Zahid","Shahriar","Safhkhat Samin","Ayesha"]);
+var output4 = megaFriend(["Shafi","Sami","Zahid","Shahriar","Safhkhat Samin","Zahidul Islam Zahid","Ayesha"]);
 console.log(output4);
